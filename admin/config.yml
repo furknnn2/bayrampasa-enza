@@ -82,8 +82,8 @@ collections:
         file: "detay/2025-guzellik-ve-bakim-trendleri/index.html"
         fields:
           - {label: "Sayfanın Tüm Kodu", name: "body", widget: "markdown"}
-      - label: "Kayseri Cilt Bakımı"
-        name: "kayseri-cilt-bakimi"
+      - label: "Bayrampaşa Cilt bakımı"
+        name: "bayrampasa-cilt-bakimi"
         file: "detay/bayrampasa-da-en-cok-tercih-edilen-cilt-bakimi-uygulamalari/index.html"
         fields:
           - {label: "Sayfanın Tüm Kodu", name: "body", widget: "markdown"}
@@ -92,3 +92,4 @@ collections:
         file: "detay/bolgesel-incelme-nedir-nasil-yapilir/index.html"
         fields:
           - {label: "Sayfanın Tüm Kodu", name: "body", widget: "markdown"}
+
